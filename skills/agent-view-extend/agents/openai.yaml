@@ -1,0 +1,4 @@
+interface:
+  display_name: "Agent View & Extend"
+  short_description: "Read and extend Typst notes through focused conversation."
+  default_prompt: "Use $agent-view-extend to read my current Typst notes, extend clear ideas, and discuss material ambiguities with me."
