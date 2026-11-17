@@ -8,6 +8,7 @@
 
 #outline(title: [目錄])
 
-#include "notes/getting-started.typ"
-
-// 在此 include 新的筆記檔案，排列順序就是閱讀順序。
+// #include "notes/getting-started.typ"
+#include "notes/la/real-la.typ"
+#include "notes/la/complex-la.typ"
+#include "notes/qc/qc.typ"
