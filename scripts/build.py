@@ -19,7 +19,7 @@ def build():
         output = Path(directory) / "index.html"
         subprocess.run([
             "typst", "compile", "--root", str(ROOT), "--features", "html",
-            str(ROOT / "index.typ"), str(output),
+            str(ROOT / "main.typ"), str(output),
         ], cwd=ROOT, check=True)
         document = output.read_text(encoding="utf-8")
         if document.count("</head>") != 1:

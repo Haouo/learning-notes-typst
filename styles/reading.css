@@ -1,6 +1,8 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400;1,700&family=Noto+Sans+TC:wght@400;700&display=swap");
+
 :root {
   color-scheme: light dark;
-  font-family: -apple-system, BlinkMacSystemFont, "Noto Sans TC", "PingFang TC", sans-serif;
+  font-family: "Lato", "Noto Sans TC", "PingFang TC", sans-serif;
   line-height: 1.85;
   color: #243448;
   background: #f7f8fa;

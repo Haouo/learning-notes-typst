@@ -1,1 +1,0 @@
-= Quantum Information and Computing
